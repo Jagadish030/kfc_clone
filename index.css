@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Merriweather', serif;
-    background-image: linear-gradient(to right, #fceabb 0%, #f8b500  51%, #fceabb  100%)
+    background-image: linear-gradient(to right, #fceabb 0%, #f8b500  51%, #fceabb  100%);
 }
 
 
@@ -33,10 +33,15 @@ body {
     display: flex;
 }
 
+
+/* .container {
+    background-image: url(/Food/assets/KFC\ menu.png);
+} */
 .search__bar {
     display: flex;
     align-items: center;
 }
+
 
 .name {
     width: 200px;
