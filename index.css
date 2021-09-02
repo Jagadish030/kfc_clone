@@ -262,7 +262,7 @@ body {
 	overflow: hidden;
 	position: relative;
 }
-.menu__img::after {
+/* .menu__img::after {
 	content: '';
 	position: absolute;
 	left: 0;
@@ -271,7 +271,7 @@ body {
 	width: 100%;
 	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
 	opacity: 0.7;
-}
+} */
 .menu__img img {
 	transition: 0.3s ease transform;
 }
